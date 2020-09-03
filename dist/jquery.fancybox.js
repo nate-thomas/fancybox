@@ -3463,7 +3463,7 @@
     },
 
     vimeo: {
-      matcher: /^.+vimeo.com\/(.*\/)?([\d]+)(.*)?/,
+      matcher: /^.+vimeo.com\/(\/)?([\d]+)(.*)?/,
       params: {
         autoplay: 1,
         hd: 1,
