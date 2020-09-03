@@ -1,3 +1,5 @@
+Forked from the original to fix breaking bug regarding the embedding of vimeo videos. 
+
 # fancyBox
 
 jQuery lightbox script for displaying images, videos and more.
